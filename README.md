@@ -1,6 +1,4 @@
 # Hello-Microverse
-A Simple Microverse Project
+A Simple Microverse Project that is made to help me show the use of Linters
 
-Tech Stack
-HTML
-CSS
+Technologies used are HTML and CSS
